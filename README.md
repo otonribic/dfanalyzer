@@ -1,4 +1,5 @@
 # dfanalyzer
+
 Analyzes Dark Forces level files and provides some statistics. E.g.:
 
 dfa.py secbase.lev
